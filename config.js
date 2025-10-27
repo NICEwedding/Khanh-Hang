@@ -5,7 +5,7 @@
 */
 const WEDDING_CONFIG = {
   groomName: "Hữu Khánh    ",
-  brideName: "  Thúy hằng ",
+  brideName: "  Thúy Hằng ",
 
   weddingDate: "11/06/2025  17:00:00",
   location: "Tại Địa chỉ:Nhà Văn Hoá Thôn Tân Hà, Xã Duyên Hà, Thanh Trì, Hà Nội",
@@ -50,14 +50,12 @@ const WEDDING_CONFIG = {
     groomSide: {
       avatar: "assets/g2.jpg",
       name: "Thúy Hằng ",
-      parents: "Bố: Lê Văn Luận<br>Mẹ: Trịnh Thị Tâm",
       address: "Địa chỉ:TDP2, Quý Lộc, Yên Định, Thanh Hoá"
     },
     brideSide: {
 
 	  avatar: "assets/g1.jpg",
       name: "Hữu Khánh ",
-      parents: "Bố:Phạm Hữu Dũng<br>Mẹ: Bùi Thị Thuý",
       address: "Địa chỉ:Thôn 1, Đông Mỹ, Thanh Trì, Hà Nội"
     }
   },
